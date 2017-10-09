@@ -9,7 +9,7 @@ Complete SDK documentation can be found in the [*doc* directory](doc/).
 
 
 ![resource manager architecture](images/RM_API.jpg)
-figure 1. Architecture of resource managers (VNFM) and Northbound lifecycle manager (NFVO):
+
 
 We use GitHub issues for tracking requests and bugs. If you'd like to contribute to OSSLM, please take a look at our [contribution guidelines](CONTRIBUTING.rst).
 
