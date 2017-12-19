@@ -30,8 +30,11 @@ For the UCD adaptor [Java 1.8 JDK] is needed to build the adaptor. For the ansib
 In addition, an understanding of REST is helpful when interacting with OSSLM API docs.
 
 ## Creating your first Resource Manager Adaptor
-Sample implementations of Resource Manager adaptors for commercial Urban Code Deploy (https://github.com/IBM/osslm-ucd-adaptor) and OpenSource Ansible (https://github.com/IBM/osslm-ansible-resource-manager) and Docker (
-https://github.com/IBM/osslm-docker-adaptor) are available.
+Sample implementations of Resource Manager adaptors are available for
+* [Urban Code Deploy](#https://github.com/IBM/osslm-ucd-adaptor)
+* [Ansible](#https://github.com/IBM/osslm-ansible-resource-manager)
+* [Docker](#https://github.com/IBM/osslm-docker-adaptor)
+* [OpenSource MANO](#https://github.com/IBM/osslm-OpenSourceMANO-adaptor)
 ## More Information
 
 * **[API Specs]**,
